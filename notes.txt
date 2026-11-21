@@ -1,0 +1,19 @@
+JavaScript = Programming language.
+
+
+
+TypeScript = JavaScript with static typing.
+
+
+
+React = Frontend UI library.
+
+
+
+Vite = Development server and build tool.
+
+
+
+npm = Package manager and script runner.
+
+npm run dev
